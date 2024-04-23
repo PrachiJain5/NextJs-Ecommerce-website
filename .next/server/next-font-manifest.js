@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/chinmayjain/Desktop/Prachi/NextJs-Ecommerce-website/app/layout\":[\"static/media/f7040064460a9b21-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
